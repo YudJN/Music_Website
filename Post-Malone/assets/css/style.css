@@ -247,6 +247,7 @@ img {
     opacity: 0;
 }
 
+
 .team-member:hover .team-member-content {
     opacity: 1;
     top: 24px;
@@ -597,3 +598,7 @@ audio {
   #tabela_album tr:hover td {
     background-color: #e1e1e1;
   }
+
+  /* Shows */
+
+  
