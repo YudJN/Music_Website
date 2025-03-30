@@ -515,4 +515,9 @@ footer .line {
 
 }
 
-
+.rodape{
+    background-color: #000000;
+    text-align: center;
+    color: #e1e1e1;
+    padding: 15px;
+  }

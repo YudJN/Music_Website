@@ -277,7 +277,7 @@ img {
     position: absolute;
     top: 0;
     left: 0;
-    z-index: -1;
+    z-index: -1;col-md-4 d-flex justify-content-center
 }
 
 #contact .form-control {
@@ -599,6 +599,9 @@ audio {
     background-color: #e1e1e1;
   }
 
-  /* Shows */
-
-  
+  .rodape{
+    background-color: #000000;
+    text-align: center;
+    color: #e1e1e1;
+    padding: 15px;
+  }
