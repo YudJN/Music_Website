@@ -99,6 +99,7 @@ img {
     width: fit-content;
     display: flex;
     list-style: none;
+    color: #000000;
   }
   
   .menu a {
@@ -107,7 +108,7 @@ img {
     font-family: inherit;
     font-size: inherit;
     line-height: inherit;
-  }
+    }
   
   .menu .link {
     position: relative;
@@ -119,6 +120,7 @@ img {
     border-radius: 16px;
     overflow: hidden;
     transition: all 0.48s cubic-bezier(0.23, 1, 0.32, 1);
+    color: white;
   }
   
   .menu .link::after {
@@ -171,7 +173,7 @@ img {
     visibility: visible;
     transform: translateY(0);
     pointer-events: auto;
-    border-top: transparent;
+    border-top: white;
     border-color:var(--c-brand);
   }
   
@@ -228,7 +230,7 @@ img {
   }
   
   .submenu .submenu-link:hover {
-    color: #ffffff;
+    color: #000000;
   }
   
   
