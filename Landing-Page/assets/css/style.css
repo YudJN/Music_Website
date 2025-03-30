@@ -233,7 +233,9 @@ img {
     color: #000000;
   }
   
-  
+  .submenu .submenu-link:hover:hover {
+    color: #070707;
+  }
 /* BTN */
 .btn {
     font-weight: 600;
