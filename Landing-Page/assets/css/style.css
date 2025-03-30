@@ -340,7 +340,7 @@ img {
 
 .service:hover h5,
 .service:hover p {
-    color: white;
+    color: rgb(29, 29, 29);
 }
 
 .service:hover .iconbox {
